@@ -12,7 +12,7 @@ function Focusinput() {
       <div>
          <input ref={inputRef} type='text'/>
        </div>
-    )
+   )
 }
 
 export default Focusinput
